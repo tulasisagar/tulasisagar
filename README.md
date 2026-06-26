@@ -48,4 +48,226 @@ Every project I build is an opportunity to understand **how systems work, why th
 * 🚀 Building production-ready CI/CD pipelines using Jenkins and GitHub
 * 📊 Implementing monitoring and observability with Prometheus, Grafana, and Loki
 * 🤖 Exploring AI-assisted workflows to improve DevOps productivity
+...
 
+---
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+
+<!-- Badges will be added here -->
+
+</p>
+<p align="center">
+
+### ☁️ Cloud & AWS
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
+<img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white"/>
+<img src="https://img.shields.io/badge/ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
+
+### ⚙️ Infrastructure as Code
+
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+
+### 🐳 Containers & Orchestration
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+
+### 🔄 CI/CD & DevOps
+
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+### 📊 Monitoring & Logging
+
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+
+### 🖥️ Operating System & Scripting
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
+
+### 📁 Version Control
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+### 🤖 AI-Assisted Development
+
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+
+</p>
+...
+
+---
+
+# 🚀 Flagship Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### ☁️ AWS Three-Tier Architecture
+
+Designed and deployed a production-style three-tier AWS infrastructure featuring high availability, Auto Scaling, Application Load Balancer, private RDS, IAM security, and CloudWatch monitoring.
+
+**Tech Stack**
+
+AWS • EC2 • VPC • ALB • ASG • RDS • IAM • CloudWatch
+
+🔗 **Explore Project →** [GitHub Repository](https://github.com/tulasisagar/aws-three-tier-architecture)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🐧 Linux Automation Library
+
+Developed production-style Bash automation scripts for system health monitoring, Amazon S3 backups, Linux user provisioning, and scheduled task automation using Cron.
+
+**Tech Stack**
+
+Linux • Bash • Cron • AWS CLI • Amazon S3
+
+🔗 **Explore Project →** [GitHub Repository](https://github.com/tulasisagar/linux-bash-scripts)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🔄 CI/CD Pipeline
+
+Built a fully automated CI/CD pipeline using Jenkins, Docker, GitHub Webhooks, and AWS ECR with automated build, container validation, image publishing, and deployment.
+
+**Tech Stack**
+
+Jenkins • Docker • GitHub • AWS ECR • Nginx
+
+🔗 **Explore Project →** [GitHub Repository](https://github.com/tulasisagar/jenkins-docker-cicd)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 TravelBookStall DevOps Platform
+
+Built an end-to-end DevOps platform by integrating Infrastructure as Code, Configuration Management, CI/CD, Kubernetes orchestration, monitoring, and centralized logging around a Spring Boot application.
+
+**Tech Stack**
+
+Terraform • Ansible • Jenkins • Docker • Kubernetes • Prometheus • Grafana • Loki
+
+🔗 **Explore Project →** [GitHub Repository](https://github.com/tulasisagar/travelbookstall)
+
+</td>
+
+</tr>
+</table>
+...
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=tulasisagar&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tulasisagar&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tulasisagar&theme=github-dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tulasisagar&theme=github-dark&hide_border=true"/>
+
+</p>
+...
+
+---
+
+# 🏆 Certifications
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### ☁️ AWS
+
+**AWS Certified Cloud Practitioner**
+
+🟡 **In Progress**
+
+Target: 2026
+
+</td>
+
+<td align="center" width="25%">
+
+### 🐳 Docker
+
+**Docker Basics Assessment**
+
+✅ Completed
+
+May 2026
+
+</td>
+
+<td align="center" width="25%">
+
+### 💼 LinkedIn
+
+**Recruiter Professional Services & Talent Insights**
+
+✅ Completed
+
+Dec 2024
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎯 Next Goals
+
+AWS SAA-C03
+
+CKA
+
+Terraform Associate
+
+</td>
+
+</tr>
+</table>
