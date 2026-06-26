@@ -225,9 +225,9 @@ Terraform • Ansible • Jenkins • Docker • Kubernetes • Prometheus • G
 
 ### ☁️ AWS
 
-**AWS Certified Cloud Practitioner**
+**AWS Certified Cloud Practitioner (CLF-C02)**
 
-🟡 **In Progress**
+🟡 In Progress
 
 Target: 2026
 
@@ -243,6 +243,9 @@ Target: 2026
 
 May 2026
 
+Credential ID:
+`DJA-B-1-2543210-0`
+
 </td>
 
 <td align="center" width="25%">
@@ -255,19 +258,104 @@ May 2026
 
 Dec 2024
 
+Credential ID:
+`f9yh3xcvzxzv`
+
 </td>
 
 <td align="center" width="25%">
 
-### 🎯 Next Goals
+### 🚀 Next Goals
 
-AWS SAA-C03
+🥇 AWS Solutions Architect Associate
 
-CKA
+🥇 Certified Kubernetes Administrator (CKA)
 
-Terraform Associate
+🥇 Terraform Associate
 
 </td>
 
 </tr>
 </table>
+...
+
+---
+
+# 📚 Current Learning
+
+<table>
+<tr>
+<td>
+
+- ☁️ AWS Cloud (EC2, VPC, IAM, S3, RDS, ALB, Auto Scaling)
+- 🐳 Docker & Container Best Practices
+- ☸️ Kubernetes Administration
+- ⚙️ Terraform Infrastructure as Code
+- 🚀 Jenkins CI/CD Pipelines
+- 📊 Prometheus & Grafana Monitoring
+- 📦 GitHub Actions Automation
+- 🔍 Linux System Administration
+- 🔐 DevSecOps Fundamentals
+
+</td>
+</tr>
+</table>
+...
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/tulasi-sagar">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/tulasisagar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:tulasisagar.devops@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+...
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=tulasisagar&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+...
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/tulasisagar/tulasisagar/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+
+</p>
+...
+
+---
+
+# ☕ Fun Fact
+
+> *"I believe the best way to learn DevOps is by building, breaking, troubleshooting, documenting, and building again."* 🚀
+...
+
+---
+
+<p align="center">
+
+⭐ If you like my projects, consider giving them a star!
+
+Thanks for visiting my profile! 🚀
+
+</p>
